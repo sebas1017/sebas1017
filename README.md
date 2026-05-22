@@ -17,7 +17,7 @@
 - 🔭 Backend Developer focused on **APIs, real-time systems, and AI-powered products**.
 - ⚙️ I build with **Python (FastAPI / Flask)** on the backend and **React** on the frontend.
 - 🤖 I love wiring **LLMs** into real apps — incident classification, voice agents, content tooling.
-- 📱 Recently shipped **[PingZone](https://github.com/sebas1017/PingZone)** — a real-time civic reporting platform (web + API + native iOS).
+- 📱 Recently shipped **PingZone** — a real-time civic reporting platform (web + API + native iOS). <!-- TODO: link to the live web app once deployed → [PingZone](https://your-live-url) -->
 - 🌎 Based in **Cali, Colombia** · 🐱 coding from home with my cat.
 
 ---
